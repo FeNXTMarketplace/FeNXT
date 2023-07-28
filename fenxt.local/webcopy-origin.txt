@@ -1,0 +1,124 @@
+Uri: http://fenxt.local/
+File Name: C:\Downloaded Web Sites\fenxt.local\index.htm
+Content Type: text/html
+
+Uri: http://fenxt.local/comments/feed/
+File Name: C:\Downloaded Web Sites\fenxt.local\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://fenxt.local/feed/
+File Name: C:\Downloaded Web Sites\fenxt.local\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://fenxt.local/wp-content/themes/astra/assets/css/minified/compatibility/page-builder/bb-plugin.min.css?ver=4.1.6
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\themes\astra\assets\css\minified\compatibility\page-builder\bb-plugin.min.css
+Content Type: text/css
+
+Uri: http://fenxt.local/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.1.6
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: http://fenxt.local/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.1.6
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: http://fenxt.local/wp-content/uploads/2023/07/fenxt-101x95.png
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\2023\07\fenxt-101x95.png
+Content Type: image/png
+
+Uri: http://fenxt.local/wp-content/uploads/2023/07/fenxt-150x150.png
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\2023\07\fenxt-150x150.png
+Content Type: image/png
+
+Uri: http://fenxt.local/wp-content/uploads/2023/07/fenxt-300x282.png
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\2023\07\fenxt-300x282.png
+Content Type: image/png
+
+Uri: http://fenxt.local/wp-content/uploads/2023/07/fenxt.png
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\2023\07\fenxt.png
+Content Type: image/png
+
+Uri: http://fenxt.local/wp-content/uploads/2023/07/JasperArt_2023-07-21_22.03.26_upscaled-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\2023\07\JasperArt_2023-07-21_22.03.26_upscaled-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://fenxt.local/wp-content/uploads/2023/07/JasperArt_2023-07-21_22.03.26_upscaled-150x150.jpg
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\2023\07\JasperArt_2023-07-21_22.03.26_upscaled-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://fenxt.local/wp-content/uploads/2023/07/JasperArt_2023-07-21_22.03.26_upscaled-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\2023\07\JasperArt_2023-07-21_22.03.26_upscaled-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://fenxt.local/wp-content/uploads/2023/07/JasperArt_2023-07-21_22.03.26_upscaled-300x300.jpg
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\2023\07\JasperArt_2023-07-21_22.03.26_upscaled-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://fenxt.local/wp-content/uploads/2023/07/JasperArt_2023-07-21_22.03.26_upscaled-768x768.jpg
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\2023\07\JasperArt_2023-07-21_22.03.26_upscaled-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://fenxt.local/wp-content/uploads/2023/07/JasperArt_2023-07-21_22.03.26_upscaled.jpg
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\2023\07\JasperArt_2023-07-21_22.03.26_upscaled.jpg
+Content Type: image/jpeg
+
+Uri: http://fenxt.local/wp-content/uploads/bb-plugin/cache/16-layout.css?ver=8ccf5fe8bab4346186cdf3cba8f1a8ad
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\bb-plugin\cache\16-layout.css
+Content Type: text/css
+
+Uri: http://fenxt.local/wp-content/uploads/bb-plugin/cache/16-layout.js?ver=33f1a7c3a05af1020e1ab2dae91ad1e2
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-content\uploads\bb-plugin\cache\16-layout.js
+Content Type: application/x-javascript
+
+Uri: http://fenxt.local/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://fenxt.local/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://fenxt.local/wp-includes/js/jquery/jquery.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://fenxt.local/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: http://fenxt.local/wp-json/
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://fenxt.local/wp-json/oembed/1.0/embed?url=http:%2F%2Ffenxt.local%2F
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://fenxt.local/wp-json/oembed/1.0/embed?url=http:%2F%2Ffenxt.local%2F&format=xml
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://fenxt.local/wp-json/wp/v2/pages/16
+File Name: C:\Downloaded Web Sites\fenxt.local\wp-json\wp\v2\pages\16
+Content Type: application/json
+
+Uri: http://fenxt.local/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\fenxt.local\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://fonts.googleapis.com/css?family=League+Spartan:700%2C800%2C100&ver=6.2.2
+File Name: C:\Downloaded Web Sites\fenxt.local\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMfoPZA81Y.ttf
+File Name: C:\Downloaded Web Sites\fenxt.local\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMfoPZA81Y.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMGYPZA81Y.ttf
+File Name: C:\Downloaded Web Sites\fenxt.local\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMGYPZA81Y.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvM_oXZA81Y.ttf
+File Name: C:\Downloaded Web Sites\fenxt.local\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvM_oXZA81Y.ttf
+Content Type: font/ttf
+
